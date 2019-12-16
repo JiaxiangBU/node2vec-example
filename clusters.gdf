@@ -1,0 +1,7 @@
+nodedef>name VARCHAR,cluster_id VARCHAR,label VARCHAR
+0,1,basketball
+1,0,Kobe Bryant
+2,0,Lebron James
+edgedef>node1 VARCHAR,node2 VARCHAR, weight DOUBLE
+0,1,1
+0,2,1
